@@ -11,4 +11,4 @@ Soru-Cevap Üretme
 Metin Özetleme
 Dil Çevirisi (İngilizce → Fransızca ve İngilizce → Türkçe)
 
-Bu projenin amacı, doğal dil işleme görevlerini gerçekleştirmek için transformer tabanlı modellerin kullanımını göstermeyi amaçlar. Özellikle, Hugging Face modellerinin esnekliği ve performansı vurgulanmaktadır.
+Bu projenin amacı, doğal dil işleme görevlerini gerçekleştirmek için transformer tabanlı modellerin kullanımını göstermektir. Özellikle, Hugging Face modellerinin esnekliği ve performansı vurgulanmaktadır.
